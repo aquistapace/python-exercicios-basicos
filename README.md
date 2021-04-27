@@ -54,9 +54,6 @@ Essa lista de exercícios faz parte do site [Python Brasil](https://wiki.python.
 # Clone este repositório
 $ git clone git@github.com:aquistapace/python-exercicios-basicos.git
 
-# Acesse a pasta do projeto 
-landing-page-home-jungle
-
 # Execute cada arquivo do projeto no Google Colab
 
 
